@@ -1,0 +1,17 @@
+{
+  "name": "pacman-survival",
+  "version": "0.1.0",
+  "description": "A survival game where pacman has to dodge 3 ghosts, one of which cannot move as fast as the others",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "paperjs, pacman, xkcd, "
+  ],
+  "author": "Paul Bevis",
+  "license": "MIT",
+  "dependencies": {
+    "paper": "^0.10.2"
+  }
+}
